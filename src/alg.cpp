@@ -2,6 +2,7 @@
 #include <cstdint>
 #include "alg.h"
 
+
 double pown(double value, uint16_t n) {
   if (n == 0)
     return 1;
